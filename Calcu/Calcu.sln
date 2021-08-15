@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcu", "Calcu\Calcu.csproj", "{7A02DEDB-05A2-4DB8-8739-B49D5A4E031E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A02DEDB-05A2-4DB8-8739-B49D5A4E031E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A02DEDB-05A2-4DB8-8739-B49D5A4E031E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A02DEDB-05A2-4DB8-8739-B49D5A4E031E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A02DEDB-05A2-4DB8-8739-B49D5A4E031E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE516469-C40E-42D4-A4F9-97858A3E4EF4}
+	EndGlobalSection
+EndGlobal

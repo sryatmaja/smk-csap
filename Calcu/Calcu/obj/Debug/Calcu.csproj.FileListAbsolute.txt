@@ -1,0 +1,10 @@
+D:\Code\C#\Calcu\Calcu\bin\Debug\Calcu.exe.config
+D:\Code\C#\Calcu\Calcu\bin\Debug\Calcu.exe
+D:\Code\C#\Calcu\Calcu\bin\Debug\Calcu.pdb
+D:\Code\C#\Calcu\Calcu\obj\Debug\Calcu.csprojAssemblyReference.cache
+D:\Code\C#\Calcu\Calcu\obj\Debug\Calcu.Form1.resources
+D:\Code\C#\Calcu\Calcu\obj\Debug\Calcu.Properties.Resources.resources
+D:\Code\C#\Calcu\Calcu\obj\Debug\Calcu.csproj.GenerateResource.cache
+D:\Code\C#\Calcu\Calcu\obj\Debug\Calcu.csproj.CoreCompileInputs.cache
+D:\Code\C#\Calcu\Calcu\obj\Debug\Calcu.exe
+D:\Code\C#\Calcu\Calcu\obj\Debug\Calcu.pdb

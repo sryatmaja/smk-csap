@@ -1,0 +1,13 @@
+D:\Code\C#\perpus-mini\perpus-mini\bin\Debug\netcoreapp3.1\perpus-mini.exe
+D:\Code\C#\perpus-mini\perpus-mini\bin\Debug\netcoreapp3.1\perpus-mini.deps.json
+D:\Code\C#\perpus-mini\perpus-mini\bin\Debug\netcoreapp3.1\perpus-mini.runtimeconfig.json
+D:\Code\C#\perpus-mini\perpus-mini\bin\Debug\netcoreapp3.1\perpus-mini.runtimeconfig.dev.json
+D:\Code\C#\perpus-mini\perpus-mini\bin\Debug\netcoreapp3.1\perpus-mini.dll
+D:\Code\C#\perpus-mini\perpus-mini\bin\Debug\netcoreapp3.1\perpus-mini.pdb
+D:\Code\C#\perpus-mini\perpus-mini\obj\Debug\netcoreapp3.1\perpus-mini.csprojAssemblyReference.cache
+D:\Code\C#\perpus-mini\perpus-mini\obj\Debug\netcoreapp3.1\perpus-mini.AssemblyInfoInputs.cache
+D:\Code\C#\perpus-mini\perpus-mini\obj\Debug\netcoreapp3.1\perpus-mini.AssemblyInfo.cs
+D:\Code\C#\perpus-mini\perpus-mini\obj\Debug\netcoreapp3.1\perpus-mini.csproj.CoreCompileInputs.cache
+D:\Code\C#\perpus-mini\perpus-mini\obj\Debug\netcoreapp3.1\perpus-mini.dll
+D:\Code\C#\perpus-mini\perpus-mini\obj\Debug\netcoreapp3.1\perpus-mini.pdb
+D:\Code\C#\perpus-mini\perpus-mini\obj\Debug\netcoreapp3.1\perpus-mini.genruntimeconfig.cache
