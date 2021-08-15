@@ -1,0 +1,13 @@
+C:\Users\yursaa\source\repos\rumahsakit\rumahsakit\bin\Debug\netcoreapp3.1\rumahsakit.exe
+C:\Users\yursaa\source\repos\rumahsakit\rumahsakit\bin\Debug\netcoreapp3.1\rumahsakit.deps.json
+C:\Users\yursaa\source\repos\rumahsakit\rumahsakit\bin\Debug\netcoreapp3.1\rumahsakit.runtimeconfig.json
+C:\Users\yursaa\source\repos\rumahsakit\rumahsakit\bin\Debug\netcoreapp3.1\rumahsakit.runtimeconfig.dev.json
+C:\Users\yursaa\source\repos\rumahsakit\rumahsakit\bin\Debug\netcoreapp3.1\rumahsakit.dll
+C:\Users\yursaa\source\repos\rumahsakit\rumahsakit\bin\Debug\netcoreapp3.1\rumahsakit.pdb
+C:\Users\yursaa\source\repos\rumahsakit\rumahsakit\obj\Debug\netcoreapp3.1\rumahsakit.csprojAssemblyReference.cache
+C:\Users\yursaa\source\repos\rumahsakit\rumahsakit\obj\Debug\netcoreapp3.1\rumahsakit.AssemblyInfoInputs.cache
+C:\Users\yursaa\source\repos\rumahsakit\rumahsakit\obj\Debug\netcoreapp3.1\rumahsakit.AssemblyInfo.cs
+C:\Users\yursaa\source\repos\rumahsakit\rumahsakit\obj\Debug\netcoreapp3.1\rumahsakit.csproj.CoreCompileInputs.cache
+C:\Users\yursaa\source\repos\rumahsakit\rumahsakit\obj\Debug\netcoreapp3.1\rumahsakit.dll
+C:\Users\yursaa\source\repos\rumahsakit\rumahsakit\obj\Debug\netcoreapp3.1\rumahsakit.pdb
+C:\Users\yursaa\source\repos\rumahsakit\rumahsakit\obj\Debug\netcoreapp3.1\rumahsakit.genruntimeconfig.cache
